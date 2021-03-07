@@ -1,7 +1,7 @@
 ## Installation
 
 ```Bash
-https://github.com/ioaneN/carousel.git
+git clone https://github.com/ioaneN/carousel.git
 cd minimal-react-webpack-babel-setup
 npm install
 npm start
